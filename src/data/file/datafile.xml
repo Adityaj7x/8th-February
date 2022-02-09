@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vehicles>
+    <vehicle>
+        <brand>Koenigsegg</brand>
+        <name>Jesko</name>
+    </vehicle>
+    <!-- <vehicle>
+        <brand>Pagani</brand>
+        <name>Huayra R Roadster</name>
+    </vehicle>
+    <vehicle>
+        <brand>Nissan</brand>
+        <name>GTR Skyline R34</name>
+    </vehicle>
+    <vehicle>
+        <brand>Bentley</brand>
+        <name>Continental GT</name>
+    </vehicle> -->
+</vehicles>
